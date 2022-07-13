@@ -8,13 +8,13 @@ Along this incredible Azure cloud journey, I decided to take a brief foray into 
 
 _Project Overview:_
 
-Task 1: Register the Microsoft.Kubernetes and Microsoft.KubernetesConfiguration resource providers.
+**Task 1**: Register the Microsoft.Kubernetes and Microsoft.KubernetesConfiguration resource providers.
 
-Task 2: Deploy an Azure Kubernetes Service cluster
+**Task 2**: Deploy an Azure Kubernetes Service cluster
 
-Task 3: Deploy pods into the Azure Kubernetes Service cluster
+**Task 3**: Deploy pods into the Azure Kubernetes Service cluster
 
-Task 4: Scale containerized workloads in the Azure Kubernetes service cluster
+**Task 4**: Scale containerized workloads in the Azure Kubernetes service cluster
 
 <br>
 <br>
